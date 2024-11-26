@@ -1,0 +1,565 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mansi.gawande\\source\\repos\\novSocial_media\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{370F52F7-8CC5-4394-8499-3E0A95E07B99}|novSocial_media\\novSocial_media.csproj|c:\\users\\mansi.gawande\\source\\repos\\novsocial_media\\novsocial_media\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{370F52F7-8CC5-4394-8499-3E0A95E07B99}|novSocial_media\\novSocial_media.csproj|solutionrelative:novsocial_media\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{370F52F7-8CC5-4394-8499-3E0A95E07B99}|novSocial_media\\novSocial_media.csproj|c:\\users\\mansi.gawande\\source\\repos\\novsocial_media\\novsocial_media\\areas\\admin\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{370F52F7-8CC5-4394-8499-3E0A95E07B99}|novSocial_media\\novSocial_media.csproj|solutionrelative:novsocial_media\\areas\\admin\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{370F52F7-8CC5-4394-8499-3E0A95E07B99}|novSocial_media\\novSocial_media.csproj|c:\\users\\mansi.gawande\\source\\repos\\novsocial_media\\novsocial_media\\areas\\admin\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{370F52F7-8CC5-4394-8499-3E0A95E07B99}|novSocial_media\\novSocial_media.csproj|solutionrelative:novsocial_media\\areas\\admin\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{370F52F7-8CC5-4394-8499-3E0A95E07B99}|novSocial_media\\novSocial_media.csproj|c:\\users\\mansi.gawande\\source\\repos\\novsocial_media\\novsocial_media\\areas\\admin\\controllers\\companycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{370F52F7-8CC5-4394-8499-3E0A95E07B99}|novSocial_media\\novSocial_media.csproj|solutionrelative:novsocial_media\\areas\\admin\\controllers\\companycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{370F52F7-8CC5-4394-8499-3E0A95E07B99}|novSocial_media\\novSocial_media.csproj|c:\\users\\mansi.gawande\\source\\repos\\novsocial_media\\novsocial_media\\areas\\admin\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{370F52F7-8CC5-4394-8499-3E0A95E07B99}|novSocial_media\\novSocial_media.csproj|solutionrelative:novsocial_media\\areas\\admin\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{370F52F7-8CC5-4394-8499-3E0A95E07B99}|novSocial_media\\novSocial_media.csproj|c:\\users\\mansi.gawande\\source\\repos\\novsocial_media\\novsocial_media\\wwwroot\\favicon.ico||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{370F52F7-8CC5-4394-8499-3E0A95E07B99}|novSocial_media\\novSocial_media.csproj|solutionrelative:novsocial_media\\wwwroot\\favicon.ico||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{370F52F7-8CC5-4394-8499-3E0A95E07B99}|novSocial_media\\novSocial_media.csproj|c:\\users\\mansi.gawande\\source\\repos\\novsocial_media\\novsocial_media\\areas\\admin\\views\\order\\paymentconfirmation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{370F52F7-8CC5-4394-8499-3E0A95E07B99}|novSocial_media\\novSocial_media.csproj|solutionrelative:novsocial_media\\areas\\admin\\views\\order\\paymentconfirmation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{370F52F7-8CC5-4394-8499-3E0A95E07B99}|novSocial_media\\novSocial_media.csproj|c:\\users\\mansi.gawande\\source\\repos\\novsocial_media\\novsocial_media\\areas\\customer\\views\\cart\\orderconfirmation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{370F52F7-8CC5-4394-8499-3E0A95E07B99}|novSocial_media\\novSocial_media.csproj|solutionrelative:novsocial_media\\areas\\customer\\views\\cart\\orderconfirmation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{370F52F7-8CC5-4394-8499-3E0A95E07B99}|novSocial_media\\novSocial_media.csproj|c:\\users\\mansi.gawande\\source\\repos\\novsocial_media\\novsocial_media\\areas\\customer\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{370F52F7-8CC5-4394-8499-3E0A95E07B99}|novSocial_media\\novSocial_media.csproj|solutionrelative:novsocial_media\\areas\\customer\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21B3333A-2345-4099-9A1C-1A3AF77F92A5}|Bulky.DataAccess\\Bulky.DataAccess.csproj|c:\\users\\mansi.gawande\\source\\repos\\novsocial_media\\bulky.dataaccess\\repository\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21B3333A-2345-4099-9A1C-1A3AF77F92A5}|Bulky.DataAccess\\Bulky.DataAccess.csproj|solutionrelative:bulky.dataaccess\\repository\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{370F52F7-8CC5-4394-8499-3E0A95E07B99}|novSocial_media\\novSocial_media.csproj|c:\\users\\mansi.gawande\\source\\repos\\novsocial_media\\novsocial_media\\areas\\admin\\views\\order\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{370F52F7-8CC5-4394-8499-3E0A95E07B99}|novSocial_media\\novSocial_media.csproj|solutionrelative:novsocial_media\\areas\\admin\\views\\order\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21B3333A-2345-4099-9A1C-1A3AF77F92A5}|Bulky.DataAccess\\Bulky.DataAccess.csproj|c:\\users\\mansi.gawande\\source\\repos\\novsocial_media\\bulky.dataaccess\\repository\\irepository\\iorderheaderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21B3333A-2345-4099-9A1C-1A3AF77F92A5}|Bulky.DataAccess\\Bulky.DataAccess.csproj|solutionrelative:bulky.dataaccess\\repository\\irepository\\iorderheaderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE0E2750-0E43-4604-A79B-CBC382E43335}|Bulky.Models\\Bulky.Models.csproj|c:\\users\\mansi.gawande\\source\\repos\\novsocial_media\\bulky.models\\viewmodel\\ordervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE0E2750-0E43-4604-A79B-CBC382E43335}|Bulky.Models\\Bulky.Models.csproj|solutionrelative:bulky.models\\viewmodel\\ordervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{197F9DA6-F18E-4F8F-B2D9-BA68873D137D}|Bulky.Utility\\Bulky.Utility.csproj|c:\\users\\mansi.gawande\\source\\repos\\novsocial_media\\bulky.utility\\sd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{197F9DA6-F18E-4F8F-B2D9-BA68873D137D}|Bulky.Utility\\Bulky.Utility.csproj|solutionrelative:bulky.utility\\sd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{370F52F7-8CC5-4394-8499-3E0A95E07B99}|novSocial_media\\novSocial_media.csproj|c:\\users\\mansi.gawande\\source\\repos\\novsocial_media\\novsocial_media\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{370F52F7-8CC5-4394-8499-3E0A95E07B99}|novSocial_media\\novSocial_media.csproj|solutionrelative:novsocial_media\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21B3333A-2345-4099-9A1C-1A3AF77F92A5}|Bulky.DataAccess\\Bulky.DataAccess.csproj|c:\\users\\mansi.gawande\\source\\repos\\novsocial_media\\bulky.dataaccess\\repository\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21B3333A-2345-4099-9A1C-1A3AF77F92A5}|Bulky.DataAccess\\Bulky.DataAccess.csproj|solutionrelative:bulky.dataaccess\\repository\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21B3333A-2345-4099-9A1C-1A3AF77F92A5}|Bulky.DataAccess\\Bulky.DataAccess.csproj|c:\\users\\mansi.gawande\\source\\repos\\novsocial_media\\bulky.dataaccess\\repository\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21B3333A-2345-4099-9A1C-1A3AF77F92A5}|Bulky.DataAccess\\Bulky.DataAccess.csproj|solutionrelative:bulky.dataaccess\\repository\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21B3333A-2345-4099-9A1C-1A3AF77F92A5}|Bulky.DataAccess\\Bulky.DataAccess.csproj|c:\\users\\mansi.gawande\\source\\repos\\novsocial_media\\bulky.dataaccess\\repository\\irepository\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21B3333A-2345-4099-9A1C-1A3AF77F92A5}|Bulky.DataAccess\\Bulky.DataAccess.csproj|solutionrelative:bulky.dataaccess\\repository\\irepository\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{370F52F7-8CC5-4394-8499-3E0A95E07B99}|novSocial_media\\novSocial_media.csproj|c:\\users\\mansi.gawande\\source\\repos\\novsocial_media\\novsocial_media\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{370F52F7-8CC5-4394-8499-3E0A95E07B99}|novSocial_media\\novSocial_media.csproj|solutionrelative:novsocial_media\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21B3333A-2345-4099-9A1C-1A3AF77F92A5}|Bulky.DataAccess\\Bulky.DataAccess.csproj|c:\\users\\mansi.gawande\\source\\repos\\novsocial_media\\bulky.dataaccess\\repository\\irepository\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21B3333A-2345-4099-9A1C-1A3AF77F92A5}|Bulky.DataAccess\\Bulky.DataAccess.csproj|solutionrelative:bulky.dataaccess\\repository\\irepository\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21B3333A-2345-4099-9A1C-1A3AF77F92A5}|Bulky.DataAccess\\Bulky.DataAccess.csproj|c:\\users\\mansi.gawande\\source\\repos\\novsocial_media\\bulky.dataaccess\\repository\\irepository\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21B3333A-2345-4099-9A1C-1A3AF77F92A5}|Bulky.DataAccess\\Bulky.DataAccess.csproj|solutionrelative:bulky.dataaccess\\repository\\irepository\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{370F52F7-8CC5-4394-8499-3E0A95E07B99}|novSocial_media\\novSocial_media.csproj|c:\\users\\mansi.gawande\\source\\repos\\novsocial_media\\novsocial_media\\wwwroot\\js\\order.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{370F52F7-8CC5-4394-8499-3E0A95E07B99}|novSocial_media\\novSocial_media.csproj|solutionrelative:novsocial_media\\wwwroot\\js\\order.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{370F52F7-8CC5-4394-8499-3E0A95E07B99}|novSocial_media\\novSocial_media.csproj|c:\\users\\mansi.gawande\\source\\repos\\novsocial_media\\novsocial_media\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{370F52F7-8CC5-4394-8499-3E0A95E07B99}|novSocial_media\\novSocial_media.csproj|solutionrelative:novsocial_media\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21B3333A-2345-4099-9A1C-1A3AF77F92A5}|Bulky.DataAccess\\Bulky.DataAccess.csproj|c:\\users\\mansi.gawande\\source\\repos\\novsocial_media\\bulky.dataaccess\\migrations\\20241119141218_addorderheaderanddetailstodb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21B3333A-2345-4099-9A1C-1A3AF77F92A5}|Bulky.DataAccess\\Bulky.DataAccess.csproj|solutionrelative:bulky.dataaccess\\migrations\\20241119141218_addorderheaderanddetailstodb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE0E2750-0E43-4604-A79B-CBC382E43335}|Bulky.Models\\Bulky.Models.csproj|c:\\users\\mansi.gawande\\source\\repos\\novsocial_media\\bulky.models\\models\\orderheader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE0E2750-0E43-4604-A79B-CBC382E43335}|Bulky.Models\\Bulky.Models.csproj|solutionrelative:bulky.models\\models\\orderheader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{370F52F7-8CC5-4394-8499-3E0A95E07B99}|novSocial_media\\novSocial_media.csproj|c:\\users\\mansi.gawande\\source\\repos\\novsocial_media\\novsocial_media\\areas\\customer\\views\\cart\\summary.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{370F52F7-8CC5-4394-8499-3E0A95E07B99}|novSocial_media\\novSocial_media.csproj|solutionrelative:novsocial_media\\areas\\customer\\views\\cart\\summary.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21B3333A-2345-4099-9A1C-1A3AF77F92A5}|Bulky.DataAccess\\Bulky.DataAccess.csproj|c:\\users\\mansi.gawande\\source\\repos\\novsocial_media\\bulky.dataaccess\\repository\\orderheaderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21B3333A-2345-4099-9A1C-1A3AF77F92A5}|Bulky.DataAccess\\Bulky.DataAccess.csproj|solutionrelative:bulky.dataaccess\\repository\\orderheaderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{197F9DA6-F18E-4F8F-B2D9-BA68873D137D}|Bulky.Utility\\Bulky.Utility.csproj|c:\\users\\mansi.gawande\\source\\repos\\novsocial_media\\bulky.utility\\stripesetting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{197F9DA6-F18E-4F8F-B2D9-BA68873D137D}|Bulky.Utility\\Bulky.Utility.csproj|solutionrelative:bulky.utility\\stripesetting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE0E2750-0E43-4604-A79B-CBC382E43335}|Bulky.Models\\Bulky.Models.csproj|c:\\users\\mansi.gawande\\source\\repos\\novsocial_media\\bulky.models\\models\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE0E2750-0E43-4604-A79B-CBC382E43335}|Bulky.Models\\Bulky.Models.csproj|solutionrelative:bulky.models\\models\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21B3333A-2345-4099-9A1C-1A3AF77F92A5}|Bulky.DataAccess\\Bulky.DataAccess.csproj|c:\\users\\mansi.gawande\\source\\repos\\novsocial_media\\bulky.dataaccess\\repository\\irepository\\orderdetailrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21B3333A-2345-4099-9A1C-1A3AF77F92A5}|Bulky.DataAccess\\Bulky.DataAccess.csproj|solutionrelative:bulky.dataaccess\\repository\\irepository\\orderdetailrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21B3333A-2345-4099-9A1C-1A3AF77F92A5}|Bulky.DataAccess\\Bulky.DataAccess.csproj|c:\\users\\mansi.gawande\\source\\repos\\novsocial_media\\bulky.dataaccess\\repository\\irepository\\iorderdetailsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21B3333A-2345-4099-9A1C-1A3AF77F92A5}|Bulky.DataAccess\\Bulky.DataAccess.csproj|solutionrelative:bulky.dataaccess\\repository\\irepository\\iorderdetailsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21B3333A-2345-4099-9A1C-1A3AF77F92A5}|Bulky.DataAccess\\Bulky.DataAccess.csproj|c:\\users\\mansi.gawande\\source\\repos\\novsocial_media\\bulky.dataaccess\\repository\\irepository\\ishoppingcartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21B3333A-2345-4099-9A1C-1A3AF77F92A5}|Bulky.DataAccess\\Bulky.DataAccess.csproj|solutionrelative:bulky.dataaccess\\repository\\irepository\\ishoppingcartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Professional\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21B3333A-2345-4099-9A1C-1A3AF77F92A5}|Bulky.DataAccess\\Bulky.DataAccess.csproj|c:\\users\\mansi.gawande\\source\\repos\\novsocial_media\\bulky.dataaccess\\migrations\\20241121124015_addsessionidtoorderheader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21B3333A-2345-4099-9A1C-1A3AF77F92A5}|Bulky.DataAccess\\Bulky.DataAccess.csproj|solutionrelative:bulky.dataaccess\\migrations\\20241121124015_addsessionidtoorderheader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "favicon.ico - Icon [32x32, 32 bit, BMP]",
+              "DocumentMoniker": "C:\\Users\\mansi.gawande\\source\\repos\\novSocial_media\\novSocial_media\\wwwroot\\favicon.ico",
+              "RelativeDocumentMoniker": "novSocial_media\\wwwroot\\favicon.ico",
+              "ToolTip": "C:\\Users\\mansi.gawande\\source\\repos\\novSocial_media\\novSocial_media\\wwwroot\\favicon.ico - Icon [32x32, 32 bit, BMP]",
+              "RelativeToolTip": "novSocial_media\\wwwroot\\favicon.ico - Icon [32x32, 32 bit, BMP]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001525|",
+              "WhenOpened": "2024-11-25T13:34:23.631Z",
+              "EditorCaption": " - Icon [32x32, 32 bit, BMP]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\mansi.gawande\\source\\repos\\novSocial_media\\novSocial_media\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "novSocial_media\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\mansi.gawande\\source\\repos\\novSocial_media\\novSocial_media\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "novSocial_media\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T06:14:51.418Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CompanyController.cs",
+              "DocumentMoniker": "C:\\Users\\mansi.gawande\\source\\repos\\novSocial_media\\novSocial_media\\Areas\\Admin\\Controllers\\CompanyController.cs",
+              "RelativeDocumentMoniker": "novSocial_media\\Areas\\Admin\\Controllers\\CompanyController.cs",
+              "ToolTip": "C:\\Users\\mansi.gawande\\source\\repos\\novSocial_media\\novSocial_media\\Areas\\Admin\\Controllers\\CompanyController.cs",
+              "RelativeToolTip": "novSocial_media\\Areas\\Admin\\Controllers\\CompanyController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T13:34:44.61Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\mansi.gawande\\source\\repos\\novSocial_media\\novSocial_media\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "novSocial_media\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\mansi.gawande\\source\\repos\\novSocial_media\\novSocial_media\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "novSocial_media\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T13:34:55.319Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PaymentConfirmation.cshtml",
+              "DocumentMoniker": "C:\\Users\\mansi.gawande\\source\\repos\\novSocial_media\\novSocial_media\\Areas\\Admin\\Views\\Order\\PaymentConfirmation.cshtml",
+              "RelativeDocumentMoniker": "novSocial_media\\Areas\\Admin\\Views\\Order\\PaymentConfirmation.cshtml",
+              "ToolTip": "C:\\Users\\mansi.gawande\\source\\repos\\novSocial_media\\novSocial_media\\Areas\\Admin\\Views\\Order\\PaymentConfirmation.cshtml",
+              "RelativeToolTip": "novSocial_media\\Areas\\Admin\\Views\\Order\\PaymentConfirmation.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-25T12:13:20.559Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "OrderConfirmation.cshtml",
+              "DocumentMoniker": "C:\\Users\\mansi.gawande\\source\\repos\\novSocial_media\\novSocial_media\\Areas\\Customer\\Views\\Cart\\OrderConfirmation.cshtml",
+              "RelativeDocumentMoniker": "novSocial_media\\Areas\\Customer\\Views\\Cart\\OrderConfirmation.cshtml",
+              "ToolTip": "C:\\Users\\mansi.gawande\\source\\repos\\novSocial_media\\novSocial_media\\Areas\\Customer\\Views\\Cart\\OrderConfirmation.cshtml",
+              "RelativeToolTip": "novSocial_media\\Areas\\Customer\\Views\\Cart\\OrderConfirmation.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-21T09:34:30.665Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\mansi.gawande\\source\\repos\\novSocial_media\\novSocial_media\\Areas\\Admin\\Views\\Order\\Index.cshtml",
+              "RelativeDocumentMoniker": "novSocial_media\\Areas\\Admin\\Views\\Order\\Index.cshtml",
+              "ToolTip": "C:\\Users\\mansi.gawande\\source\\repos\\novSocial_media\\novSocial_media\\Areas\\Admin\\Views\\Order\\Index.cshtml",
+              "RelativeToolTip": "novSocial_media\\Areas\\Admin\\Views\\Order\\Index.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAEIAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-22T05:46:50.262Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IOrderHeaderRepository.cs",
+              "DocumentMoniker": "C:\\Users\\mansi.gawande\\source\\repos\\novSocial_media\\Bulky.DataAccess\\Repository\\IRepository\\IOrderHeaderRepository.cs",
+              "RelativeDocumentMoniker": "Bulky.DataAccess\\Repository\\IRepository\\IOrderHeaderRepository.cs",
+              "ToolTip": "C:\\Users\\mansi.gawande\\source\\repos\\novSocial_media\\Bulky.DataAccess\\Repository\\IRepository\\IOrderHeaderRepository.cs",
+              "RelativeToolTip": "Bulky.DataAccess\\Repository\\IRepository\\IOrderHeaderRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T09:12:37.734Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\mansi.gawande\\source\\repos\\novSocial_media\\Bulky.DataAccess\\Repository\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "Bulky.DataAccess\\Repository\\UnitOfWork.cs",
+              "ToolTip": "C:\\Users\\mansi.gawande\\source\\repos\\novSocial_media\\Bulky.DataAccess\\Repository\\UnitOfWork.cs",
+              "RelativeToolTip": "Bulky.DataAccess\\Repository\\UnitOfWork.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAiwCMAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T06:49:41.761Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CartController.cs",
+              "DocumentMoniker": "C:\\Users\\mansi.gawande\\source\\repos\\novSocial_media\\novSocial_media\\Areas\\Customer\\Controllers\\CartController.cs",
+              "RelativeDocumentMoniker": "novSocial_media\\Areas\\Customer\\Controllers\\CartController.cs",
+              "ToolTip": "C:\\Users\\mansi.gawande\\source\\repos\\novSocial_media\\novSocial_media\\Areas\\Customer\\Controllers\\CartController.cs",
+              "RelativeToolTip": "novSocial_media\\Areas\\Customer\\Controllers\\CartController.cs",
+              "ViewState": "AgIAAKwAAAAAAAAAAAASwLwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T06:54:30.487Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Users\\mansi.gawande\\source\\repos\\novSocial_media\\novSocial_media\\.gitignore",
+              "RelativeDocumentMoniker": "novSocial_media\\.gitignore",
+              "ToolTip": "C:\\Users\\mansi.gawande\\source\\repos\\novSocial_media\\novSocial_media\\.gitignore",
+              "RelativeToolTip": "novSocial_media\\.gitignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAIAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAF8SURBVDhPjVNLTgJBEG1lwpoFB3GNK9fieA48hD8iwT/ihwgSDAIHgAGXXsEV18CNzL/LquqZdsYM6kteXqcy3fWqpmpNRBgOhyABBEgpAFVKPIMUcYzUyOU\u002BXM/b2qtU3vkSfRjjZTCAMAw1A2LwzdFoBPP5HNqdzuL27n4juibWI\u002BUshBA1DIkhEx9iEorFotgslQqGYbxxAGFEqt1MxmPWJLbLZdZ\u002Bv89q5PMFPiTR6z2zdaxR0fXA0XTBcVywkb4fwHXjRteecIDNQ7UmExVYAdPcxYaqclN46na5WenMKjtlVnTYwcXlVYaDqImW9beD5N/TeGy32QHXm6hZ03ZgiSQHp2fnWQ4oBmJqWSqwAqZpZjt4aLXAD4J0VqyZsmoubfB8H2r1eoaD6NXZ9HcHO\u002BSA3f4AjifXl8rItOETM8ckB9WTWpYD9RdeZ1PWVWAHWXPQaDb59f/w8LiqHeh1pvGkCaP6qB8yXusoxmuNZ7XmII4O9vGuEF86osuDYRkpYQAAAABJRU5ErkJggg==",
+              "WhenOpened": "2024-11-26T05:24:18.692Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "C:\\Users\\mansi.gawande\\source\\repos\\novSocial_media\\novSocial_media\\Areas\\Admin\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "novSocial_media\\Areas\\Admin\\Controllers\\OrderController.cs",
+              "ToolTip": "C:\\Users\\mansi.gawande\\source\\repos\\novSocial_media\\novSocial_media\\Areas\\Admin\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "novSocial_media\\Areas\\Admin\\Controllers\\OrderController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHkAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T05:26:23.309Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Users\\mansi.gawande\\source\\repos\\novSocial_media\\Bulky.DataAccess\\Repository\\Repository.cs",
+              "RelativeDocumentMoniker": "Bulky.DataAccess\\Repository\\Repository.cs",
+              "ToolTip": "C:\\Users\\mansi.gawande\\source\\repos\\novSocial_media\\Bulky.DataAccess\\Repository\\Repository.cs",
+              "RelativeToolTip": "Bulky.DataAccess\\Repository\\Repository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAcAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T06:50:39.292Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mansi.gawande\\source\\repos\\novSocial_media\\novSocial_media\\Program.cs",
+              "RelativeDocumentMoniker": "novSocial_media\\Program.cs",
+              "ToolTip": "C:\\Users\\mansi.gawande\\source\\repos\\novSocial_media\\novSocial_media\\Program.cs",
+              "RelativeToolTip": "novSocial_media\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T06:52:24.662Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\mansi.gawande\\source\\repos\\novSocial_media\\Bulky.DataAccess\\Repository\\IRepository\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "Bulky.DataAccess\\Repository\\IRepository\\IUnitOfWork.cs",
+              "ToolTip": "C:\\Users\\mansi.gawande\\source\\repos\\novSocial_media\\Bulky.DataAccess\\Repository\\IRepository\\IUnitOfWork.cs",
+              "RelativeToolTip": "Bulky.DataAccess\\Repository\\IRepository\\IUnitOfWork.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T09:22:44.314Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Summary.cshtml",
+              "DocumentMoniker": "C:\\Users\\mansi.gawande\\source\\repos\\novSocial_media\\novSocial_media\\Areas\\Customer\\Views\\Cart\\Summary.cshtml",
+              "RelativeDocumentMoniker": "novSocial_media\\Areas\\Customer\\Views\\Cart\\Summary.cshtml",
+              "ToolTip": "C:\\Users\\mansi.gawande\\source\\repos\\novSocial_media\\novSocial_media\\Areas\\Customer\\Views\\Cart\\Summary.cshtml",
+              "RelativeToolTip": "novSocial_media\\Areas\\Customer\\Views\\Cart\\Summary.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-21T12:30:24.552Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "20241119141218_addOrderHeaderAndDetailsToDb.cs",
+              "DocumentMoniker": "C:\\Users\\mansi.gawande\\source\\repos\\novSocial_media\\Bulky.DataAccess\\Migrations\\20241119141218_addOrderHeaderAndDetailsToDb.cs",
+              "RelativeDocumentMoniker": "Bulky.DataAccess\\Migrations\\20241119141218_addOrderHeaderAndDetailsToDb.cs",
+              "ToolTip": "C:\\Users\\mansi.gawande\\source\\repos\\novSocial_media\\Bulky.DataAccess\\Migrations\\20241119141218_addOrderHeaderAndDetailsToDb.cs",
+              "RelativeToolTip": "Bulky.DataAccess\\Migrations\\20241119141218_addOrderHeaderAndDetailsToDb.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T12:37:41.85Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "20241121124015_addSessionIdToOrderHeader.cs",
+              "DocumentMoniker": "C:\\Users\\mansi.gawande\\source\\repos\\novSocial_media\\Bulky.DataAccess\\Migrations\\20241121124015_addSessionIdToOrderHeader.cs",
+              "RelativeDocumentMoniker": "Bulky.DataAccess\\Migrations\\20241121124015_addSessionIdToOrderHeader.cs",
+              "ToolTip": "C:\\Users\\mansi.gawande\\source\\repos\\novSocial_media\\Bulky.DataAccess\\Migrations\\20241121124015_addSessionIdToOrderHeader.cs",
+              "RelativeToolTip": "Bulky.DataAccess\\Migrations\\20241121124015_addSessionIdToOrderHeader.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T12:40:16.455Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "SD.cs",
+              "DocumentMoniker": "C:\\Users\\mansi.gawande\\source\\repos\\novSocial_media\\Bulky.Utility\\SD.cs",
+              "RelativeDocumentMoniker": "Bulky.Utility\\SD.cs",
+              "ToolTip": "C:\\Users\\mansi.gawande\\source\\repos\\novSocial_media\\Bulky.Utility\\SD.cs",
+              "RelativeToolTip": "Bulky.Utility\\SD.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T12:23:49.032Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "OrderVM.cs",
+              "DocumentMoniker": "C:\\Users\\mansi.gawande\\source\\repos\\novSocial_media\\Bulky.Models\\ViewModel\\OrderVM.cs",
+              "RelativeDocumentMoniker": "Bulky.Models\\ViewModel\\OrderVM.cs",
+              "ToolTip": "C:\\Users\\mansi.gawande\\source\\repos\\novSocial_media\\Bulky.Models\\ViewModel\\OrderVM.cs",
+              "RelativeToolTip": "Bulky.Models\\ViewModel\\OrderVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T05:42:53.474Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\mansi.gawande\\source\\repos\\novSocial_media\\Bulky.DataAccess\\Repository\\CategoryRepository.cs",
+              "RelativeDocumentMoniker": "Bulky.DataAccess\\Repository\\CategoryRepository.cs",
+              "ToolTip": "C:\\Users\\mansi.gawande\\source\\repos\\novSocial_media\\Bulky.DataAccess\\Repository\\CategoryRepository.cs",
+              "RelativeToolTip": "Bulky.DataAccess\\Repository\\CategoryRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T14:28:32.974Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\mansi.gawande\\source\\repos\\novSocial_media\\Bulky.DataAccess\\Repository\\IRepository\\IRepository.cs",
+              "RelativeDocumentMoniker": "Bulky.DataAccess\\Repository\\IRepository\\IRepository.cs",
+              "ToolTip": "C:\\Users\\mansi.gawande\\source\\repos\\novSocial_media\\Bulky.DataAccess\\Repository\\IRepository\\IRepository.cs",
+              "RelativeToolTip": "Bulky.DataAccess\\Repository\\IRepository\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T14:09:24.661Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ICategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\mansi.gawande\\source\\repos\\novSocial_media\\Bulky.DataAccess\\Repository\\IRepository\\ICategoryRepository.cs",
+              "RelativeDocumentMoniker": "Bulky.DataAccess\\Repository\\IRepository\\ICategoryRepository.cs",
+              "ToolTip": "C:\\Users\\mansi.gawande\\source\\repos\\novSocial_media\\Bulky.DataAccess\\Repository\\IRepository\\ICategoryRepository.cs",
+              "RelativeToolTip": "Bulky.DataAccess\\Repository\\IRepository\\ICategoryRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T14:26:50.169Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\mansi.gawande\\source\\repos\\novSocial_media\\novSocial_media\\appsettings.json",
+              "RelativeDocumentMoniker": "novSocial_media\\appsettings.json",
+              "ToolTip": "C:\\Users\\mansi.gawande\\source\\repos\\novSocial_media\\novSocial_media\\appsettings.json",
+              "RelativeToolTip": "novSocial_media\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-21T10:20:06.165Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\mansi.gawande\\source\\repos\\novSocial_media\\novSocial_media\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "novSocial_media\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\mansi.gawande\\source\\repos\\novSocial_media\\novSocial_media\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "novSocial_media\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAAC4AAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-22T05:55:47.012Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "order.js",
+              "DocumentMoniker": "C:\\Users\\mansi.gawande\\source\\repos\\novSocial_media\\novSocial_media\\wwwroot\\js\\order.js",
+              "RelativeDocumentMoniker": "novSocial_media\\wwwroot\\js\\order.js",
+              "ToolTip": "C:\\Users\\mansi.gawande\\source\\repos\\novSocial_media\\novSocial_media\\wwwroot\\js\\order.js",
+              "RelativeToolTip": "novSocial_media\\wwwroot\\js\\order.js",
+              "ViewState": "AgIAABQAAAAAAAAAAAAQwBgAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-11-22T05:51:38.01Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "OrderHeader.cs",
+              "DocumentMoniker": "C:\\Users\\mansi.gawande\\source\\repos\\novSocial_media\\Bulky.Models\\Models\\OrderHeader.cs",
+              "RelativeDocumentMoniker": "Bulky.Models\\Models\\OrderHeader.cs",
+              "ToolTip": "C:\\Users\\mansi.gawande\\source\\repos\\novSocial_media\\Bulky.Models\\Models\\OrderHeader.cs",
+              "RelativeToolTip": "Bulky.Models\\Models\\OrderHeader.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAowC0AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T10:36:59.573Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "OrderHeaderRepository.cs",
+              "DocumentMoniker": "C:\\Users\\mansi.gawande\\source\\repos\\novSocial_media\\Bulky.DataAccess\\Repository\\OrderHeaderRepository.cs",
+              "RelativeDocumentMoniker": "Bulky.DataAccess\\Repository\\OrderHeaderRepository.cs",
+              "ToolTip": "C:\\Users\\mansi.gawande\\source\\repos\\novSocial_media\\Bulky.DataAccess\\Repository\\OrderHeaderRepository.cs",
+              "RelativeToolTip": "Bulky.DataAccess\\Repository\\OrderHeaderRepository.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAQwCAAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T09:06:25.126Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "StripeSetting.cs",
+              "DocumentMoniker": "C:\\Users\\mansi.gawande\\source\\repos\\novSocial_media\\Bulky.Utility\\StripeSetting.cs",
+              "RelativeDocumentMoniker": "Bulky.Utility\\StripeSetting.cs",
+              "ToolTip": "C:\\Users\\mansi.gawande\\source\\repos\\novSocial_media\\Bulky.Utility\\StripeSetting.cs",
+              "RelativeToolTip": "Bulky.Utility\\StripeSetting.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T10:22:06.531Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "OrderDetail.cs",
+              "DocumentMoniker": "C:\\Users\\mansi.gawande\\source\\repos\\novSocial_media\\Bulky.Models\\Models\\OrderDetail.cs",
+              "RelativeDocumentMoniker": "Bulky.Models\\Models\\OrderDetail.cs",
+              "ToolTip": "C:\\Users\\mansi.gawande\\source\\repos\\novSocial_media\\Bulky.Models\\Models\\OrderDetail.cs",
+              "RelativeToolTip": "Bulky.Models\\Models\\OrderDetail.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T09:05:14.162Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "IOrderDetailsRepository.cs",
+              "DocumentMoniker": "C:\\Users\\mansi.gawande\\source\\repos\\novSocial_media\\Bulky.DataAccess\\Repository\\IRepository\\IOrderDetailsRepository.cs",
+              "RelativeDocumentMoniker": "Bulky.DataAccess\\Repository\\IRepository\\IOrderDetailsRepository.cs",
+              "ToolTip": "C:\\Users\\mansi.gawande\\source\\repos\\novSocial_media\\Bulky.DataAccess\\Repository\\IRepository\\IOrderDetailsRepository.cs",
+              "RelativeToolTip": "Bulky.DataAccess\\Repository\\IRepository\\IOrderDetailsRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T09:21:40.918Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "OrderDetailRepository.cs",
+              "DocumentMoniker": "C:\\Users\\mansi.gawande\\source\\repos\\novSocial_media\\Bulky.DataAccess\\Repository\\IRepository\\OrderDetailRepository.cs",
+              "RelativeDocumentMoniker": "Bulky.DataAccess\\Repository\\IRepository\\OrderDetailRepository.cs",
+              "ToolTip": "C:\\Users\\mansi.gawande\\source\\repos\\novSocial_media\\Bulky.DataAccess\\Repository\\IRepository\\OrderDetailRepository.cs",
+              "RelativeToolTip": "Bulky.DataAccess\\Repository\\IRepository\\OrderDetailRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T09:13:56.935Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "IShoppingCartRepository.cs",
+              "DocumentMoniker": "C:\\Users\\mansi.gawande\\source\\repos\\novSocial_media\\Bulky.DataAccess\\Repository\\IRepository\\IShoppingCartRepository.cs",
+              "RelativeDocumentMoniker": "Bulky.DataAccess\\Repository\\IRepository\\IShoppingCartRepository.cs",
+              "ToolTip": "C:\\Users\\mansi.gawande\\source\\repos\\novSocial_media\\Bulky.DataAccess\\Repository\\IRepository\\IShoppingCartRepository.cs",
+              "RelativeToolTip": "Bulky.DataAccess\\Repository\\IRepository\\IShoppingCartRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T09:13:12.591Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Microsoft.Common.CurrentVersion.targets",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Professional\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Professional\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Professional\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Professional\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ViewState": "AgIAAKgRAAAAAAAAAAApwPkSAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2024-11-21T06:49:31.164Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
