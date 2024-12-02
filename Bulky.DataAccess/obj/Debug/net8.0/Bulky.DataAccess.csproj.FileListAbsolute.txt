@@ -17,3 +17,4 @@ C:\Users\mansi.gawande\source\repos\novSocial_media\Bulky.DataAccess\obj\Debug\n
 C:\Users\mansi.gawande\source\repos\novSocial_media\Bulky.DataAccess\obj\Debug\net8.0\Bulky.DataAccess.pdb
 C:\Users\mansi.gawande\source\repos\novSocial_media\Bulky.DataAccess\obj\Debug\net8.0\Bulky.DataAccess.genruntimeconfig.cache
 C:\Users\mansi.gawande\source\repos\novSocial_media\Bulky.DataAccess\obj\Debug\net8.0\ref\Bulky.DataAccess.dll
+C:\Users\mansi.gawande\source\repos\novSocial_media\Bulky.DataAccess\obj\Debug\net8.0\Bulky.DataAccess.sourcelink.json
